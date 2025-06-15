@@ -409,6 +409,7 @@
 "Assets/Scripts/Particle.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/ProceduralTerrain.cs"
+"Assets/Scripts/Start.cs"
 -langversion:9.0
 /deterministic
 /optimize+
