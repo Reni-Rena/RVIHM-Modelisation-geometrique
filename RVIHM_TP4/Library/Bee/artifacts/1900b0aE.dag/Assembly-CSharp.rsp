@@ -404,6 +404,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.47f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/AgentController.cs"
 "Assets/Scripts/CameraFollow.cs"
+"Assets/Scripts/CameraFollow1.cs"
 "Assets/Scripts/GeneratorTrigger.cs"
 "Assets/Scripts/Particle.cs"
 "Assets/Scripts/PlayerMovement.cs"
